@@ -1,5 +1,7 @@
 # Jarvis
 
+## THIS REPOSITORY IS IN EARLY ACCESS. THERE IS NO FINISHED PRODUCT, IT IS JUST PUBLIC TO SHOW MY PROGRESS!
+
 ## Code base source
 
 This repo is based on this repository:
